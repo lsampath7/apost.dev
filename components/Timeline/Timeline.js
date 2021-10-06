@@ -2,7 +2,7 @@ import Tab from './Tab'
 
 const Timeline = ({styles}) => {
   const tabs2021 = [
-    {title: 'Joined WasteBridge Protocol', description: 'Joined the WasteBridge Protocol team as Chief Technology Officer.'}
+    {title: 'Joined Belair Finance', description: 'Joined the Belair Finance team as Chief Technology Officer.'}
   ]
 
   const tabs2001 = [
